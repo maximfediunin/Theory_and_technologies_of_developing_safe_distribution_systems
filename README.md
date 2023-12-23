@@ -1,1 +1,2 @@
-# Theory_and_technologies_of_developing_safe_distribution_systems
+## Теорія та технології розроблення безпечних розподілених систем
+- [Лабораторна робота 1](lab1/README.md)
